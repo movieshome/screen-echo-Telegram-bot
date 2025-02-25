@@ -22,4 +22,4 @@ RUN pip install -r requirements.txt
 EXPOSE 8080
 
 # Run the application
-CMD ["python", "your_bot_script.py"]
+CMD ["python", "screenechobot.py"]
